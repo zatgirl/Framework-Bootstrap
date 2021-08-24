@@ -1,0 +1,33 @@
+#header {
+    background-color: rgba(32,76,144);
+}
+
+#bg{
+    background-color: rgba(205, 214, 218, 0.516);
+    border-radius: 5px;
+}
+
+#sec3{
+    align-items: center;
+    background-color: rgba(22, 48, 94);
+    color: rgb(51, 219, 150);
+    /*padding-right: 20px;
+    padding-left: 20px;*/
+    border-radius:10px;
+    box-sizing: border-box;
+    text-align: justify;
+}
+#sec3b{
+    align-items: center;
+    background-color: rgba(238, 1, 94);
+    color: rgb(255, 255, 255);
+    /*padding-right: 20px;
+    padding-left: 20px;*/
+    border-radius:10px;
+    box-sizing: border-box;
+}
+#footer{
+    background-color: rgba(32,76,144);
+    color:rgb(255, 255, 255);
+   
+}
